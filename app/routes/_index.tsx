@@ -1,5 +1,6 @@
 import type { MetaFunction } from "@remix-run/node";
 import { RiHome4Line } from "react-icons/ri";
+
 export const meta: MetaFunction = () => {
   return [
     { title: "New Remix App" },
